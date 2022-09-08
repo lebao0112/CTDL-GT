@@ -1,5 +1,5 @@
 
- 
+ // andfafvw v
 #include <stdio.h>
 #include <algorithm>
 int gcd1(int a, int b){
